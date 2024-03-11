@@ -1,0 +1,1 @@
+# Satyam1018-Case_Study_on_Linked_Schema_Design_by_SQL
