@@ -1,1 +1,2 @@
-# Satyam1018-Case_Study_on_Linked_Schema_Design_by_SQL
+# Case_Study_on_Linked_Schema_Design_by_SQL
+LinkedIn is a professional social networking platform that was founded in December 2002 and launched in May 2003. The company's primary mission is to connect the world's professionals to make them more productive and successful. LinkedIn is widely regarded as the leading platform for professional networking and has transformed the way people connect, find jobs, and share industry insights.
